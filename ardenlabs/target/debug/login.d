@@ -1,0 +1,1 @@
+C:\Users\Frank\Desktop\Code\ base\rust\ardenlabs\target\debug\login.exe: C:\Users\Frank\Desktop\Code\ base\rust\ardenlabs\lessons\authentication\src\lib.rs C:\Users\Frank\Desktop\Code\ base\rust\ardenlabs\lessons\login\src\main.rs
