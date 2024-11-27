@@ -1,0 +1,17 @@
+{
+  "osaretin": {
+    "username": "osaretin",
+    "password": "BB50EA69FE2F71E4547139B30C445AE999621EDCAC2ABC981B19748B2AFD46F8",
+    "role": "User"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "BA7816BF8F01CFEA414140DE5DAE2223B00361A396177A9CB410FF61F20015AD",
+    "role": "Admin"
+  },
+  "user": {
+    "username": "user",
+    "password": "3608BCA1E44EA6C4D268EB6DB02260269892C0B42B86BBF1E77A6FA16C3C9282",
+    "role": "User"
+  }
+}

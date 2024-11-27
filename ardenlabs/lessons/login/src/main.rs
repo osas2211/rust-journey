@@ -1,4 +1,4 @@
-use authentication::{self, get_users_vec, login, read_input, LoginAction, LoginRole};
+use authentication::{self, get_users, login, read_input, LoginAction, LoginRole};
 fn main() {
     let mut tries: u8 = 0;
     loop {
@@ -28,7 +28,10 @@ fn main() {
         }
     }
 
-    let users = get_users_vec();
-    let usernames: Vec<String> = users.into_iter().map(|user| user.username).collect();
+    let users = get_users();
+    let usernames: Vec<String> = users
+        .into_iter()
+        .map(|user| user.1.username.clone())
+        .collect();
     println!("{usernames:?}");
 }
