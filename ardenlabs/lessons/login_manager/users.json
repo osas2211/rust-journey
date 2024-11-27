@@ -1,0 +1,32 @@
+{
+  "funmilayo": {
+    "username": "funmilayo",
+    "password": "3608BCA1E44EA6C4D268EB6DB02260269892C0B42B86BBF1E77A6FA16C3C9282",
+    "role": "User"
+  },
+  "admin": {
+    "username": "admin",
+    "password": "BA7816BF8F01CFEA414140DE5DAE2223B00361A396177A9CB410FF61F20015AD",
+    "role": "Admin"
+  },
+  "JESUS": {
+    "username": "Jesus",
+    "password": "BC88B109B9DA42A0460D434C4DCEFCDE6441911EC4E7987DF50BED230C656BB5",
+    "role": "Admin"
+  },
+  "user": {
+    "username": "user",
+    "password": "3608BCA1E44EA6C4D268EB6DB02260269892C0B42B86BBF1E77A6FA16C3C9282",
+    "role": "User"
+  },
+  "osaretin": {
+    "username": "osaretin",
+    "password": "FCBC361746292DCEAE2E6A732CCDCDA99BC956027CE9EE712F24EE8ACD65D0A2",
+    "role": "User"
+  },
+  "justin": {
+    "username": "justin",
+    "password": "102CF10B5286BAD9FCFE5E275ACE3DDD7DCC23931FB0CA93DC223DAF9877CABD",
+    "role": "Admin"
+  }
+}
